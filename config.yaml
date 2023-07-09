@@ -1,0 +1,21 @@
+
+d_fea: 40
+max_len: 50
+pts:
+  - AMP.txt
+  - TXP.txt
+  - ABP.txt
+  - AIP.txt
+  - AVP.txt
+  - ACP.txt
+  - AFP.txt
+  - DDV.txt
+  - CPP.txt
+  - CCC.txt
+  - APP.txt
+  - AAP.txt
+  - AHTP.txt
+  - PBP.txt
+  - QSP.txt
+
+
