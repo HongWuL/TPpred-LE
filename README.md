@@ -28,4 +28,4 @@ Retrain the model(*Algorithm 2*):
 ```shell
 ./retrain.sh
 ```
-The (re)train_partial.sh is used to train with the limited datasets.
+The `(re)train_partial.sh` is used to train with the limited datasets.
