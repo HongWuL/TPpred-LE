@@ -6,13 +6,13 @@ The majoy dependencies used in this project are as following:
 
 ```
 python  3.7
-numpy 1.21.6
+numpy 1.20.3
 tqdm  4.64.1
 pyyaml  6.0
 scikit-learn  1.0.2
-torch  1.11.0+cu113
+torch  1.9.0+cu111
 tensorflow  1.14.0
 tensorboardX  2.5.1
-
+transformers  4.25.1
 ```
 More detailed python libraries used in this project are referred to `requirements.txt`. 
