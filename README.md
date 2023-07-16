@@ -16,3 +16,16 @@ tensorboardX  2.5.1
 transformers  4.25.1
 ```
 More detailed python libraries used in this project are referred to `requirements.txt`. 
+
+# Usage
+(1) Generate the pssms by blast against NR database(https://ftp.ncbi.nlm.nih.gov/blast/db/).
+(2) train and test the model:
+Train the model(*Algorithm 1*):
+```shell
+./train.sh
+```
+Retrain the model(*Algorithm 2*):
+```shell
+./retrain.sh
+```
+The (re)train_partial.sh is used to train with the limited datasets.
