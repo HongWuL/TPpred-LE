@@ -18,7 +18,7 @@ transformers  4.25.1
 More detailed python libraries used in this project are referred to `requirements.txt`. 
 
 # Usage
-+ Generate the pssms by blast against NR database(https://ftp.ncbi.nlm.nih.gov/blast/db/). The features of the benchmark data are avilable at ().
++ Generate the pssms by blast against NR database(https://ftp.ncbi.nlm.nih.gov/blast/db/). The features of the benchmark data are avilable at (http://bliulab.net/TPpred-LE/data/).
 + Create the `features`,  `logs`, `results` directory in current path. 
 + copy the `pssm` into features. It should be `/features/pssm/xxx.pssm`. 
 + train and test the model:
